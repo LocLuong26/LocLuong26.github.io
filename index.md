@@ -10,7 +10,7 @@ My GitHub page is http://github.com/LocLuong26.
 
 * Lab 5
 
-    Lab 5, part 3, because with the knowledge we had then, we were able to complete a complex code to compute a game of BLackjack. We used command line arguments and artthmetic computing to recognize face cards and number cards. This was the first time I had strugglerd with using arithmetic operators, but the experience was fun over all.
+    Lab 5, part 3, because with the knowledge we had then, we were able to complete a complex code to compute a game of Blackjack. We used command line arguments and artthmetic computing to recognize face cards and number cards. This was the first time I had strugglerd with using arithmetic operators, but the experience was fun over all.
 * Lab 2
     Lab 2, part 2, taught me early on they syntax is a fundamental step in creating efiicint and credible code. This lab part helped me build habit in always remembering to double check my syntax and to rewrite incorrect code. I think that this lab helpe me build confidence and will continue to remind me theimportance of syntax down my carrer.
 * Lab 9
