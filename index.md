@@ -4,7 +4,7 @@ This is my home page! My name is Loc Luong and I am a student at [Cal State Full
 
 ## Computer Science Projects
 
-My GitHub page is http://github.cohttp://githum/LocLuong26.
+My GitHub page is http://github.com/LocLuong26
 
 ### CPSC 120
 
